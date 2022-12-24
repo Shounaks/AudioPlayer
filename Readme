@@ -1,0 +1,5 @@
+Problem Statement:
+> HTML5 - Create an mp3 player with 3 songs. 
+> When user clicks on song text (title) play that song. 
+> When a song is playing and ending, play next song after 2 seconds.
+> When last song ends, play first song after 2 seconds.
